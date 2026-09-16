@@ -1,0 +1,333 @@
+Kaique Demucio --- QA Engineer
+
+Portfólio profissional de Quality Assurance, com foco em qualidade
+de software, testes e automação.
+
+
+👨‍💻 Sobre
+
+Sou profissional de Quality Assurance com mais de 11 anos de
+experiência em qualidade de software, atuando em projetos de alta
+criticidade e complexidade nos setores financeiro e de telecomunicações.
+
+Tenho experiência em todo o ciclo de vida do software, com atuação em:
+
+Testes funcionais
+
+Testes exploratórios
+
+Testes de regressão
+
+Testes de integração
+
+Testes End-to-End (E2E)
+
+Testes de usabilidade
+
+Testes de aceite
+
+Testes de performance
+
+Testes Web e Mobile
+
+Testes de APIs REST
+
+Validação de dados e banco de dados
+
+Análise de requisitos
+
+Gestão e acompanhamento de defeitos
+
+Automação de testes
+
+Além da experiência em testes manuais, possuo experiência prática em
+automação de testes com Selenium, Cypress e Playwright, utilizando
+também JavaScript, Java, Cucumber e BDD.
+
+Meu objetivo é unir visão de negócio, qualidade, rigor técnico e
+melhoria contínua para contribuir com entregas mais seguras e
+confiáveis.
+
+🛠️ Competências
+
+Automação de Testes
+
+Selenium
+
+Cypress
+
+Playwright
+
+Robot Framework
+
+Cucumber
+
+BDD
+
+JavaScript
+
+Java
+
+Testes de API
+
+Postman
+
+SoapUI
+
+REST Assured
+
+Swagger
+
+Quality Assurance
+
+Testes Funcionais
+
+Testes Exploratórios
+
+Regressão
+
+Integração
+
+E2E
+
+Aceite
+
+Performance
+
+Web & Mobile
+
+Banco de Dados
+
+SQL
+
+MySQL
+
+DBeaver
+
+Gestão de Testes e Defeitos
+
+Azure DevOps
+
+Jira
+
+Octane
+
+ALM
+
+Confluence
+
+TDM
+
+Versionamento
+
+Git
+
+GitHub
+
+Observabilidade e Ambientes
+
+Grafana
+
+Linux / Ubuntu
+
+Mainframe
+
+Metodologias
+
+Scrum
+
+Kanban
+
+Agile
+
+BDD
+
+Cascata
+
+Estudos e ferramentas --- Mentoria Julio de Lima 2.0
+
+Supertest
+
+Zephyr
+
+Mockoon
+
+k6
+
+JMeter
+
+GitHub Actions
+
+ChatGPT aplicado a QA
+
+VS Code
+
+Webpack
+
+💼 Experiência Profissional
+
+Engineering Brasil --- Senior Quality Assurance Analyst
+
+jul/2025 --- jun/2026 · Projeto TIM · Remoto
+
+Testes funcionais, exploratórios, integração, regressão, homologação
+e E2E em aplicações Web e Mobile.
+
+Atuação em projeto de migração de sistemas de telecomunicações,
+garantindo a integridade dos dados entre plataformas.
+
+Testes de APIs REST com Postman e testes mockados nas plataformas
+QualityOne e OmniTelco.
+
+Sempre IT --- Senior Quality Assurance Analyst
+
+jan/2025 --- jul/2025 · Projeto TIM · Remoto
+
+Testes funcionais, exploratórios, regressão, integração,
+usabilidade, E2E, aceite e performance.
+
+Validação de dados e APIs com Postman, DBeaver, Bigtable, SQL Server
+e MySQL.
+
+Modelagem de testes com BDD e gestão de tarefas e bugs via Azure
+DevOps.
+
+Inmetrics --- Senior QA Engineer
+
+out/2023 --- jul/2024 · Projeto Bradesco
+
+Testes funcionais, exploratórios, regressão, integração,
+performance, E2E e aceite de usuário.
+
+Cenários baseados em BDD, massa de dados via TDM e testes de API com
+Postman e SoapUI.
+
+Gestão de defeitos via ALM, Octane e Jira, com participação em
+cerimônias ágeis.
+
+BRQ Digital Solutions --- Mid-level Quality Assurance Analyst
+
+fev/2022 --- set/2023 · Cliente Bradesco · Projeto Banco Next
+
+Análise de requisitos e testes funcionais, de regressão e E2E.
+
+Criação de cenários e casos de teste no ALM, geração de evidências e
+abertura de bugs.
+
+Validação com Postman, Mobile Center, SoapUI e DBeaver em times
+ágeis.
+
+Sempre IT --- Senior Quality Assurance Analyst
+
+out/2020 --- fev/2022 · Cliente Bradesco · Projeto BRAIN
+
+Testes funcionais, exploratórios, regressão e E2E em sistemas Web e
+Mobile.
+
+Planos de teste com BDD e gestão de testes e evidências via
+Microsoft Test Manager.
+
+Testes integrados com Postman, SoapUI, Octane e Mainframe, com massa
+de dados via TDM.
+
+BRQ Digital Solutions --- Mid-level Quality Assurance Analyst
+
+abr/2020 --- out/2020 · Cliente Bradesco · Projeto Banco Next
+
+Análise de requisitos e testes funcionais, de regressão e E2E.
+
+Cenários de teste no ALM e massa de testes com validação via
+Postman, SoapUI e DBeaver.
+
+Atuação em times ágeis com Scrum, Jira e Confluence.
+
+BRQ Digital Solutions --- Mid-level Quality Assurance Analyst
+
+set/2019 --- ago/2020 · Cliente Bradesco · Projeto Câmbio Bradesco
+
+Testes funcionais, de regressão e E2E para fluxos bancários de
+câmbio.
+
+Execução e documentação de evidências via ALM, identificação e
+acompanhamento de bugs.
+
+Atuação ágil com Scrum, Jira e Confluence.
+
+Capgemini --- Junior Quality Assurance Analyst
+
+out/2017 --- ago/2019 · Clientes PMESP e SEFAZ
+
+Testes funcionais, exploratórios, regressivos e E2E em projetos
+públicos de alta criticidade.
+
+Planos de teste baseados em CDU e User Stories, com validação em
+banco SQL Server.
+
+Gestão de testes e evidências via Microsoft Test Manager e Visual
+Studio.
+
+Inova e-Business --- Junior Quality Assurance Analyst
+
+nov/2014 --- dez/2015 · Projeto Onofre E-commerce
+
+Testes funcionais, de regressão, E2E e usabilidade em plataforma de
+e-commerce farmacêutico.
+
+Planos de teste via Microsoft Test Manager e validação com SQL
+Server 2008 e DBeaver.
+
+Testes de Web Services via Team Foundation Service (TFS).
+
+📈 Impacto na trajetória
+
+Projetos críticos de grande impacto: atuação em migrações de
+sistemas de telecomunicações e plataformas financeiras, assegurando
+a integridade dos dados.
+
+Disseminação de boas práticas de QA: colaboração e troca de
+conhecimento com profissionais de diferentes níveis de senioridade.
+
+Mais rastreabilidade e clareza nos requisitos: utilização de BDD
+na modelagem dos cenários de teste.
+
+Menos retrabalho e ciclos mais rápidos: comunicação entre áreas
+técnicas e de negócio para acelerar a validação.
+
+🎓 Formação
+
+Bacharelado em Ciência da Computação
+UNINOVE --- Universidade Nove de Julho
+2017 --- 2021
+
+🌎 Idiomas
+
+🇧🇷 Português --- Nativo
+
+🇺🇸 Inglês --- Em estudo (USK Calan)
+
+📂 Portfólio
+
+Este repositório apresenta meu portfólio profissional de QA e serve como
+ponto de entrada para meus projetos, estudos e práticas de automação.
+
+Projetos de automação e estudos técnicos estão disponíveis no GitHub:
+
+👉 GitHub: https://github.com/kaiquedemucio
+
+🔗 Contato
+
+📧 E-mail: kaique.demucio@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/kaiquedemucio/
+
+💻 GitHub: https://github.com/kaiquedemucio
+
+🚀 Objetivo
+
+Estou aberto a novos desafios em Qualidade de Software,
+especialmente oportunidades que permitam aplicar minha experiência em QA
+e continuar evoluindo em automação de testes.
+
+Qualidade não é uma etapa. É um compromisso do início ao fim.
+
+© Kaique Demucio --- QA Engineer · São Paulo, Brasil
