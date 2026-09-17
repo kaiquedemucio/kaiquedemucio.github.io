@@ -312,15 +312,13 @@ ponto de entrada para meus projetos, estudos e práticas de automação.
 
 Projetos de automação e estudos técnicos estão disponíveis no GitHub:
 
-👉 GitHub: https://github.com/kaiquedemucio
+💻 GitHub: https://github.com/kaiquedemucio
 
 🔗 Contato
 
 📧 E-mail: kaique.demucio@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/kaiquedemucio/
-
-💻 GitHub: https://github.com/kaiquedemucio
 
 🚀 Objetivo
 
