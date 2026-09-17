@@ -6,12 +6,26 @@
 <title>Kaique Demucio — QA Engineer</title>
 <meta name="description" content="Kaique Demucio, QA Engineer com mais de 11 anos de experiência em Quality Assurance nos setores financeiro e de telecomunicações.">
 <meta name="theme-color" content="#090c10">
+<meta name="robots" content="index, follow">
+<meta name="author" content="Kaique Demucio">
+<link rel="canonical" href="https://kaiquedemucio.github.io/">
+<link rel="icon" href="favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="favicon.png">
 <meta property="og:type" content="website">
+<meta property="og:url" content="https://kaiquedemucio.github.io/">
+<meta property="og:site_name" content="Kaique Demucio — QA Portfolio">
 <meta property="og:title" content="Kaique Demucio — QA Engineer">
-<meta property="og:description" content="Mais de 11 anos garantindo que sistemas críticos dos setores financeiro e de telecomunicações cheguem ao ar com segurança e qualidade.">
-<meta name="twitter:card" content="summary">
+<meta property="og:description" content="QA Engineer com mais de 11 anos de experiência em Qualidade de Software, testes web, mobile, APIs e automação.">
+<meta property="og:image" content="https://kaiquedemucio.github.io/preview.png">
+<meta property="og:image:secure_url" content="https://kaiquedemucio.github.io/preview.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Portfólio de Kaique Demucio — QA Engineer">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Kaique Demucio — QA Engineer">
-<meta name="twitter:description" content="Mais de 11 anos de experiência em Quality Assurance nos setores financeiro e de telecomunicações.">
+<meta name="twitter:description" content="QA Engineer com mais de 11 anos de experiência em Qualidade de Software, testes e automação.">
+<meta name="twitter:image" content="https://kaiquedemucio.github.io/preview.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
@@ -472,7 +486,71 @@
     font-size: 12.5px;
     color: var(--text-dim);
   }
+
+  /* ---------- MOBILE / RESPONSIVIDADE ---------- */
+  img, svg, video, canvas { max-width: 100%; height: auto; }
+  .contact-links, .contact-copy { min-width: 0; }
+  .contact-link { overflow-wrap: anywhere; word-break: break-word; }
+
+  @media (max-width: 620px) {
+    .wrap { width: 100%; max-width: none; padding-left: 20px; padding-right: 20px; }
+    nav .wrap { min-height: 72px; gap: 12px; }
+    .nav-id { font-size: 16px; }
+    .nav-toggle { width: 42px; height: 42px; }
+    .nav-toggle::before { top: 14px; }
+    .nav-toggle span { top: 20px; }
+    .nav-toggle::after { top: 26px; }
+    .nav-toggle.open::before, .nav-toggle.open::after { top: 20px; }
+    header.hero { padding: 56px 0 48px; }
+    section { padding: 52px 0; }
+    .hero-top { align-items: flex-start; gap: 18px; }
+    .avatar { width: 88px; height: 88px; }
+    h1.name { font-size: clamp(34px, 11vw, 46px); }
+    .tagline, .about-text { font-size: 15px; }
+    .terminal { width: 100%; margin-top: 30px; }
+    .terminal-body { padding: 17px 16px 20px; font-size: 12.5px; overflow-wrap: anywhere; }
+    .suite { padding: 20px 18px; }
+    .suite-head { align-items: flex-start; gap: 12px; }
+    .suite-name { min-width: 0; font-size: 16px; }
+    .suite-count { flex: none; white-space: normal; text-align: center; max-width: 118px; }
+    .chip { font-size: 12px; }
+    .timeline-item { padding-left: 22px; }
+    .edu-card { padding: 22px 18px; }
+    .lang-card { min-width: 0; width: 100%; }
+    .contact-panel { padding: 28px 20px; display: block; }
+    .contact-copy h2 { font-size: 27px; }
+    .contact-links { width: 100%; margin-top: 24px; }
+    .contact-link { width: 100%; min-width: 0; padding: 12px 14px; font-size: 13px; }
+    .email-row { width: 100%; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px; }
+    .email-row .contact-link { min-width: 0; width: 100%; }
+    .copy-btn { padding: 12px 13px; font-size: 12px; }
+    footer { padding: 30px 20px 46px; font-size: 11.5px; }
+  }
+
+  @media (max-width: 390px) {
+    .wrap { padding-left: 16px; padding-right: 16px; }
+    .suite-head { flex-direction: column; }
+    .suite-count { max-width: none; }
+    .email-row { grid-template-columns: 1fr; }
+    .copy-btn { width: 100%; }
+  }
+
 </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Kaique Demucio",
+  "url": "https://kaiquedemucio.github.io/",
+  "jobTitle": "QA Engineer",
+  "sameAs": [
+    "https://www.linkedin.com/in/kaiquedemucio/",
+    "https://github.com/kaiquedemucio"
+  ],
+  "knowsAbout": ["Quality Assurance", "Software Testing", "Selenium", "Cypress", "Playwright", "API Testing", "BDD"]
+}
+</script>
 </head>
 <body>
 
